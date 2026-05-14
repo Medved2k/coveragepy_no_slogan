@@ -5,11 +5,7 @@
 Coverage.py
 ===========
 
-Code coverage measurement for Python.
-
-.. image:: https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg
-    :target: https://vshymanskyy.github.io/StandWithUkraine
-    :alt: Stand with Ukraine
+Code coverage measurement for Python w\o policy.
 
 -------------
 
